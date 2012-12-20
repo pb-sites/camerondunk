@@ -24,7 +24,7 @@ win.resize(function() {
       }
 
       // Set the new image
-      $bg.attr('src', '/img/bg/' + chosen + '.jpg');
+      $bg.attr('src', 'img/bg/' + chosen + '.jpg');
 
       // for testing...
       //console.log('Chosen background: ' + chosen);
